@@ -1,0 +1,7 @@
+name: Spleex
+main: de.skysoldier.spleex.Main
+version: 0.0.1
+author: sky___soldier
+commands:
+  spleex: 
+    description: basic command for the main functions
